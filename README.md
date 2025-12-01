@@ -1,4 +1,4 @@
-
+![520918531-adb6ee72-155b-46fb-8119-f595a132b45a](https://github.com/user-attachments/assets/afb2b452-a5c6-4c2d-9e11-309d23176e92)
 ---
 
 # 📘 42 Piscine — Full Journey Archive
