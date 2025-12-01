@@ -1,5 +1,3 @@
-Aşağıda **42-Piscine** reposu için *tam kapsamlı, profesyonel, detaylı ve doğrudan kullanıma hazır* bir README bulacaksın.
-Bu README, tüm Shell + C projelerini, rush'ları, sınav hazırlıklarını ve havuz sürecindeki her aşamayı kapsayacak şekilde tasarlanmıştır.
 
 ---
 
