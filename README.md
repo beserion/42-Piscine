@@ -139,3 +139,4 @@ All code reflects what I wrote and learned during the Piscine.
 Feel free to explore, learn from it, or compare it with your own journey.
 
 - minor update @ 2026-01-13 09:29:45.414493
+- minor update @ 2026-01-13 13:42:32.004734
