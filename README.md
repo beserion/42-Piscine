@@ -137,3 +137,5 @@ All code is written according to the **42 Norm Version 4.x**, including:
 This repository is **not a guide** but a **personal archive**.
 All code reflects what I wrote and learned during the Piscine.
 Feel free to explore, learn from it, or compare it with your own journey.
+
+- minor update @ 2026-01-13 09:29:45.414493
